@@ -176,10 +176,6 @@ http://45.5.117.182:8000/play/a0jq/index.m3u8
 http://45.5.117.182:8000/play/a0gb/index.m3u8
 #EXTINF :-1,089. FX HD
 http://45.5.117.182:8000/play/a0fp/index.m3u8
-#EXTINF :-1,090. Dorado
-http://45.5.117.182:8000/play/a0go/index.m3u8
-#EXTINF :-1,091. Canal de golf HD
-http://45.5.117.182:8000/play/a0fv/index.m3u8
 #EXTINF :-1,093. H2
 http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF :-1,094. HBO Familia HD
@@ -196,20 +192,10 @@ http://45.5.117.182:8000/play/a0et/index.m3u8
 http://45.5.117.182:8000/play/a0hv/index.m3u8
 #EXTINF :-1100 Historia HD
 http://45.5.117.182:8000/play/a0fb/index.m3u8
-#EXTINF :-1101. ¡HOLA! TV HD
-http://45.5.117.182:8000/play/a0ic/index.m3u8
-#EXTINF :-1,103. HTV
-http://45.5.117.182:8000/play/a0gn/index.m3u8
 #EXTINF :-1,104. ID
 http://45.5.117.182:8000/play/a0ix/index.m3u8
 #EXTINF :-1,105. ISAT
 http://45.5.117.182:8000/play/a0j3/index.m3u8
-#EXTINF :-1,106. La voz de María
-http://45.5.117.182:8000/play/a0iy/index.m3u8
-#EXTINF :-1,108. TIEMPO DE VIDA
-http://45.5.117.182:8000/play/a0ez/index.m3u8
-#EXTINF :-1,109. MASTV - PAN
-http://45.5.117.182:8000/play/a0g6/index.m3u8
 #EXTINF :-1,110. MTV
 http://45.5.117.182:8000/play/a0j0/index.m3u8
 #EXTINF :-1,111. MTV 00s
@@ -292,6 +278,76 @@ http://45.5.117.182:8000/play/a0ih/index.m3u8
 http://45.5.117.182:8000/play/a0hp/index.m3u8
 #EXTINF :-1,176. WARNER HD
 http://45.5.117.182:8000/play/a0i2/index.m3u8
+#EXTINF :-1,A&E HD
+http://204.157.255.28:20001/play/a06k/index.m3u8
+#EXTINF :-1,Cartoon Network
+http://204.157.255.28:20001/play/a033/index.m3u8
+#EXTINF :-1,Cinecanal
+http://204.157.255.28:20001/play/a02v/index.m3u8
+#EXTINF :-1,Cinemax
+http://204.157.255.28:20001/play/a03u/index.m3u8
+#EXTINF :-1, Discovery Channel
+http://204.157.255.28:20001/play/a036/index.m3u8
+#EXTINF :-1, ID de descubrimiento
+http ://204.157.255.28:20001/play/a03j/index.m3u8
+#EXTINF :-1, Discovery Kids
+http://204.157.255.28:20001/play/a02m/index.m3u8
+#EXTINF :-1, Discovery Turbo
+http ://204.157.255.28:20001/play/a040/index.m3u8
+#EXTINF :-1, Disney Channel
+http://204.157.255.28:20001/play/a035/index.m3u8
+#EXTINF:-1,Disney Jr
+http://204.157.255.28:20001/play/a02q/index.m3u8
+#EXTINF :-1,E Entretenimiento
+http://204.157.255.28:20001/play/a039/index.m3u8
+#EXTINF :-1 ESPN 2 HD
+http://204.157.255.28:20001/play/a064/index.m3u8
+#EXTINF :-1 ESPN 3
+http://204.157.255.28:20001/play/a041/index.m3u8
+# EXTINF :-1,ESPN HD
+http://204.157.255.28:20001/play/a066/index.m3u8
+#EXTINF :-1,FX
+http://204.157.255.28:20001/play/a03y/index.m3u8
+#EXTINF:-1, Fox Sports 1
+http://204.157.255.28:20001/play/a055/index.m3u8
+#EXTINF :-1, Fox Sports 2
+http://204.157.255.28:20001/play/a03f/index.m3u8
+#EXTINF :-1,Fox Sports 3
+http://204.157.255.28:20001/play/a03g/index.m3u8
+#EXTINF :-1,Francia 24
+http://204.157.255.28:20001/play/a03k/index. m3u8
+#EXTINF :-1, Golden HD
+http://204.157.255.28:20001/play/a06m/index.m3u8
+#EXTINF :-1,History Channel HD
+http://204.157.255.28:20001/play/a062/index .m3u8
+#EXTINF :-1,Hogar y Salud
+http://204.157.255.28:20001/play/a03o/index.m3u8
+#EXTINF :-1,I-Sat
+http://204.157.255.28:20001/play/a02x/index .m3u8
+# EXTINF :-1,MTV
+http://204.157.255.28:20001/play/a02y/index.m3u8
+#EXTINF :-1,Nat Geo
+http://204.157.255.28:20001/play/a02t/index.m3u8
+#EXTINF :-1,Sin Límites
+http://204.157.255.28:20001/play/a04a/index.m3u8
+#EXTINF :-1,Sony
+http://204.157.255.28:20001/play/a03v/index.m3u8
+#EXTINF :-1,Espacio HD
+http://204.157.255.28:20001/play/a063/index.m3u8
+# EXTINF :-1,SyFy
+http://204.157.255.28:20001/play/a05h/index.m3u8
+#EXTINF :-1,TBS
+http://204.157.255.28:20001/play/a03m/index.m3u8
+#EXTINF : -1,TCM
+http://204.157.255.28:20001/play/a031/index.m3u8
+#EXTINF:-1,TNT
+http://204.157.255.28:20001/play/a034/index.m3u8
+#EXTINF :-1,Universal
+http://204.157.255.28:20001/play/a02w/index.m3u8
+#EXTINF :-1,Warner
+http://204.157.255.28:20001/play/a038/index.m3u8
+#EXTINF :-1,Warner Channel HD
+http://204.157.255.28:20001/play/a06l/index.m3u8
 
 
 
